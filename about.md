@@ -4,12 +4,15 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Hi!
 
-### More Information
+I am a third year Computer Science student at the University of Texas who loves
+to program! My main interests include game development and frontend web development.
 
-A place to include any other types of information that you'd like to include about yourself.
+Reach out and say hi!
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[email: scottmunro@utexas.edu](mailto:scottmunro@utexas.edu)
+[github: scottnm](https://www.github.com/scottnm)
+[twitter: @scottnmunro](https://www.twitter.com/scottnmunro)

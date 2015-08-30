@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: Scott Munro
+name: CS371p Fall 2015: Scott Munro
 
 # Short bio or description (displayed in the header)
 description: CS371P Reflections
@@ -21,14 +21,14 @@ footer-links:
   email: scottmunro@utexas.edu
   facebook: https://www.facebook.com/snmunro
   flickr:
-  github: scottnm/
+  github: https://www.github.com/scottnm/
   instagram:
-  linkedin:
+  linkedin: https://www.linkedin.com/pub/scott-munro/a3/606/a44
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: scottmunro
+  twitter: https://www.twiiter.com/scottnmunro
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
-  youtube: # channel/<your_long_string> or user/<user-name>
+  youtube: https://www.youtube.com/channel/UCfwmVE_tJwbxnBDYymdAq9g
   googleplus: # anything in your profile username that comes after plus.google.com/
 
 
