@@ -8,7 +8,7 @@ The past few readings for this class have really been enlightening. They have pr
 In one of the readings, the author laid out the foundations of the Single 
 Responsibility Principle: a class should only have one responsibility to prevent
 unnecessary coupling. I thought this was obvious and that I had a fair grasp of the
-concept. For instance, if you are designing a game 
+concept. For instance, if you are designing a game, 
 the player object is responsible for all the actions a player might do,
 but is not a listener for all the inputs that a user might perform in the game
 (even though some of those inputs will go to the player anyway). 
